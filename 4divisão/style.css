@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(230, 226, 222);
+    padding-top: 10vh;
+    text-align: center;
+}
+
+h2{
+    padding-top: 5vh;
+    font-size: 50px;
+}
+
+h3{
+    padding: 3vh;
+}
+
+input{
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 2px;
+}
+
+.insira{
+    padding-bottom: 30px;
+}
+
+button{
+    border-radius: 10px;
+    padding:5px;
+    font-size: 15px;
+    background-color: cornflowerblue;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+p{
+    padding-top: 40px;
+    font-size: 20px;
+}
+
